@@ -1,4 +1,4 @@
-## Storage
+## STORAGE
 
 - [CMF Store / Drupal](https://github.com/cmfstore-drupal)
 - [CMF Store / Flarum](https://github.com/cmfstore-flarum)
