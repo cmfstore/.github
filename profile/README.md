@@ -8,7 +8,7 @@ Package store for content management frameworks (CMF). Development and localizat
 - [MediaWiki](https://github.com/search?q=topic:mediawiki+org:cmfstore&type=Repositories)
 - [XenForo](https://github.com/search?q=topic:xenforo+org:cmfstore&type=Repositories)
 
-## Storage
+## External storage
 
 - [Drupal](https://github.com/cmfstore-drupal)
 - [Flarum](https://github.com/cmfstore-flarum)
