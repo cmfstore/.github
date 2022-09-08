@@ -1,4 +1,4 @@
-Package store for content management frameworks (CMF). Development and localization WEB-applications, extensions and visual styles.
+Packages for content management frameworks (CMF).
 
 ## CMF
 
@@ -19,4 +19,4 @@ Package store for content management frameworks (CMF). Development and localizat
 ## Resources
 
 - [Packagist](https://packagist.org/packages/cmfstore/)  
-  Default Composer package repository.
+  Composer package repository.
